@@ -51,9 +51,6 @@
 </div>
 <br>
 
->If you want to read this readme in **Spanish**
->- [**Spanish README**](https://github.com/joserafael0160/Movie-Finder/blob/main/README.es.md)
-
 ## 📜 About 
 Welcome to my movie search engine! With this tool, you can explore and search for your favorite films. 
 
