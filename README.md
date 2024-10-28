@@ -95,7 +95,7 @@ Enjoy the magic of cinema! 🎥🍿
 1. **Fork** or clone this repository
 
 ```bash
-git clone https://github.com/Deepakcode607/Movie_Finder.git
+git clone https://github.com/Deepakcode607/Movie_Finder
 ```
 
 2. Install the dependencies: 
