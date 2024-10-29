@@ -153,7 +153,7 @@ pnpm run dev
 
 Contributions are always welcome! Whether you’re reporting bugs, requesting new features, or improving existing functionalities, your help is **greatly appreciated**.
 
-If you have any suggestions that could improve the project, please make a [_fork_](https://github.com/joserafael0160/Movie-Finder/fork) of the repository and create a [_pull request_](https://github.com/joserafael0160/Movie-Finder/pulls). You can also simply open an [_issue_](https://github.com/joserafael0160/Movie-Finder/issues) with the “enhancement” label.
+If you have any suggestions that could improve the project, please make a [_fork_](https://github.com/joserafael0160/Movie-Finder/fork) of the repository and create a [_pull request_](https://github.com/joserafael0160/Movie-Finder/pulls). You can also simply open an [_issue_](https://github.com/Deepakcode607/Movie_Finder/issues) with the “enhancement” label.
 
 Here is a quick guide:
 
