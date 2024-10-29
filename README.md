@@ -163,7 +163,7 @@ Here is a quick guide:
 4. Create your Feature Branch (`git switch -c feature/NewFeature`)
 5. Make your Changes (`git commit -m 'Add: some NewFeature'`)
 6. Push to the Branch (`git push origin feature/NewFeature`)
-7. Open a [_pull request_](https://github.com/joserafael0160/Movie-Finder/pulls)
+7. Open a [_pull request_](https://github.com/Deepakcode607/Movie_Finder/pulls)
 
 <p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
